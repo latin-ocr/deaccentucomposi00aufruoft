@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deaccentucomposi00aufruoft_0011.png"; bbox 0 0 1962 3460; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 247 672 1396 760">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 247 672 1396 760">
+     <span class='ocr_line' id='line_1_1' title="bbox 247 672 1396 760; baseline -0.003 -3"><span class='ocrx_word' id='word_1_1' title='bbox 247 672 1011 760; x_wconf 76' lang='lat' dir='ltr'><strong>FRANCISCO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1082 673 1396 757; x_wconf 85' lang='lat' dir='ltr'>BOPP</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 499 1017 1139 1062">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 499 1017 1139 1062">
+     <span class='ocr_line' id='line_1_2' title="bbox 499 1017 1139 1062; baseline 0 -2"><span class='ocrx_word' id='word_1_3' title='bbox 499 1017 979 1062; x_wconf 86' lang='lat' dir='ltr'><strong>PRAECEPTORI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1022 1017 1139 1061; x_wconf 85' lang='lat' dir='ltr'><strong>SUO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 89 1356 1556 1393">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 89 1356 1556 1393">
+     <span class='ocr_line' id='line_1_3' title="bbox 89 1356 1556 1393; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 89 1357 162 1393; x_wconf 82' lang='lat' dir='ltr'><strong>CUI</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 194 1356 347 1393; x_wconf 81' lang='lat' dir='ltr'><strong>SUMMA</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 373 1357 424 1392; x_wconf 91' lang='lat' dir='ltr'><strong>SE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 457 1356 636 1393; x_wconf 89' lang='lat' dir='ltr'><strong>DEBERE</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 673 1357 816 1393; x_wconf 83' lang='lat' dir='ltr'><strong>GRATO</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 853 1357 992 1393; x_wconf 74' lang='lat' dir='ltr'>ANIMO</span> <span class='ocrx_word' id='word_1_11' title='bbox 1029 1357 1201 1393; x_wconf 79' lang='lat' dir='ltr'><strong>SEMPER</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1236 1356 1556 1393; x_wconf 85' lang='lat' dir='ltr'><strong>PROFITEBITUR</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 602 1676 1041 1713">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 602 1676 1041 1713">
+     <span class='ocr_line' id='line_1_4' title="bbox 602 1676 1041 1713; baseline -0.005 0"><span class='ocrx_word' id='word_1_13' title='bbox 602 1676 748 1713; x_wconf 78' lang='lat' dir='ltr'><strong>HANG</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 794 1676 1041 1713; x_wconf 83' lang='lat' dir='ltr'><strong>OPELLAM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1146 2748 1412 2783">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1146 2748 1412 2783">
+     <span class='ocr_line' id='line_1_5' title="bbox 1146 2748 1412 2783; baseline 0.004 -5"><span class='ocrx_word' id='word_1_15' title='bbox 1146 2748 1412 2783; x_wconf 57' lang='lat' dir='ltr'><strong>,2112less-</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
